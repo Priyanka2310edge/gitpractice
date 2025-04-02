@@ -11,3 +11,6 @@ adfadsf
 goa
 
 hello world first file
+
+
+print("django ")
